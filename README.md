@@ -12,6 +12,7 @@ This folder contains the PHP application for ONGC admin users to maintain the qu
 - Starting and ending quizzes.
 - Managing quiz data in the SQL database.
 ![WhatsApp Image 2023-11-02 at 23 46 22_bb43d02a](https://github.com/Birajj2189/quiz-management-system/assets/93638316/910d8546-0a25-4096-b03f-4c0efde8382b)
+
 ![WhatsApp Image 2023-11-02 at 23 52 51_cef3ebe6](https://github.com/Birajj2189/quiz-management-system/assets/93638316/520bee74-89d9-4a72-9a57-f6bbc4a3458f)
 
 
@@ -21,6 +22,7 @@ In this folder, you will find the PHP application responsible for user authentic
 - Authorization control to ensure only authorized users access the quiz section.
 - Secure user authentication and session management.
   ![WhatsApp Image 2023-11-02 at 23 46 25_ee94077e](https://github.com/Birajj2189/quiz-management-system/assets/93638316/6f8879da-7ac7-4ded-a235-c751abe0681f)
+  
   ![WhatsApp Image 2023-11-02 at 23 48 42_429ae243](https://github.com/Birajj2189/quiz-management-system/assets/93638316/1f6c845c-052a-4fd9-91e6-194535717c6d)
 
 
@@ -84,3 +86,16 @@ Before you can use the ONGC Quiz Management App System, you'll need the followin
 - Regularly back up the database to prevent data loss.
 - Secure the PHP and React applications from unauthorized access.
 - Keep the system up to date with the latest security patches and updates.
+
+  Optional Extended Description
+The ONGC Quiz Management App System not only simplifies quiz administration but also introduces a layer of interactivity and engagement for quiz participants. With a well-structured folder system, powerful features, and a carefully planned user journey, this system provides ONGC with a robust platform for knowledge assessment.
+
+As a testament to its flexibility, the system caters to both ONGC admin users responsible for creating and maintaining quizzes and authorized users looking to expand their knowledge base. The system is fortified with security measures, ensuring that sensitive data is safeguarded throughout the process.
+
+A particularly noteworthy feature is the ability of ONGC admin users to schedule quizzes, allowing for tailored assessments that align with ONGC's training and development goals. This capability ensures that quizzes are conducted at the most opportune times.
+
+The "cra" folder, powered by React, introduces a rich and immersive quiz-taking experience, making learning engaging and enjoyable. It is designed to accommodate a variety of quizzes, making it versatile for different types of knowledge assessments within the organization.
+
+To enhance the educational experience, the React app incorporates verification and validation mechanisms to ensure the accuracy and fairness of quiz results. It displays results in an easy-to-read format, offering insights into individual and collective performance, which can be vital for ONGC's training and development efforts.
+
+The ONGC Quiz Management App System is more than a tool; it is an investment in ONGC's continuous learning and development, a commitment to ensuring that knowledge remains relevant and up-to-date in a dynamic industry. The system's optional extended description underscores its role as a central pillar in ONGC's pursuit of knowledge excellence.
